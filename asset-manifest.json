@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/eklebaba8/Mordor-Turizm/static/css/main.bd978ca3.chunk.css",
+    "main.js": "/eklebaba8/Mordor-Turizm/static/js/main.652ff325.chunk.js",
+    "main.js.map": "/eklebaba8/Mordor-Turizm/static/js/main.652ff325.chunk.js.map",
+    "runtime-main.js": "/eklebaba8/Mordor-Turizm/static/js/runtime-main.f6855014.js",
+    "runtime-main.js.map": "/eklebaba8/Mordor-Turizm/static/js/runtime-main.f6855014.js.map",
+    "static/js/2.1ddfcfde.chunk.js": "/eklebaba8/Mordor-Turizm/static/js/2.1ddfcfde.chunk.js",
+    "static/js/2.1ddfcfde.chunk.js.map": "/eklebaba8/Mordor-Turizm/static/js/2.1ddfcfde.chunk.js.map",
+    "index.html": "/eklebaba8/Mordor-Turizm/index.html",
+    "static/css/main.bd978ca3.chunk.css.map": "/eklebaba8/Mordor-Turizm/static/css/main.bd978ca3.chunk.css.map",
+    "static/js/2.1ddfcfde.chunk.js.LICENSE.txt": "/eklebaba8/Mordor-Turizm/static/js/2.1ddfcfde.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f6855014.js",
+    "static/js/2.1ddfcfde.chunk.js",
+    "static/css/main.bd978ca3.chunk.css",
+    "static/js/main.652ff325.chunk.js"
+  ]
+}
